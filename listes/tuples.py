@@ -1,0 +1,1 @@
+plateformes_sociales_tuples = ("facebook", "messenger", "instagram", "linkedin")
